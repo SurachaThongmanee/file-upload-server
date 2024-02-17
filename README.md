@@ -17,7 +17,7 @@
    - Proceed with the installation.
 2. **Download Visual Studio Code (https://code.visualstudio.com/)**
 3. **Clone the Following 3 Repositories:**
-   * upload-file-client (Can be add email more than 1 email. by using comma "," for example : example_1_@gmail.com , example_2_@gmail.com)
+   * upload-file-client **(Can be add email more than 1 email. by using comma "," for example : example_1_@gmail.com , example_2_@gmail.com)**
      * Open CMD and navigate to the FileUploadClient directory.
      * Execute `code .` to open Visual Studio Code.
      * Run `npm run dev` to start the development server.
